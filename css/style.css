@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    background-color: aqua;
+
+}
+
+.uno {
+    background-color: rgb(17, 0, 255);
+    padding: auto;
+    margin: auto;
+    border-radius: ;
+}
+
+#uno {
+    background-color: blueviolet;
+}
+
+.color{
+    color: blue;
+}
+.text-align{
+    text-align: center;
+}
+#whitespace{
+    width: 400px;
+    height: 100px;
+    background-color: yellow;
+}
+.whitespace{
+    white-space: nowrap;
+}
+#text-overflow{
+    width: 400px;
+    height: 100px;
+    background-color: yellow;
+
+}
+.text-overflow{
+    width: 400px;
+    height: 100px;
+    background-color: yellow;
+}
+#letter-spacing{
+    letter-spacing: 3px;
+}
+.absolute{
+    font-size: 1in;
+}
